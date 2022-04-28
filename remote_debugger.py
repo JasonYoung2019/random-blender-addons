@@ -16,7 +16,7 @@ bl_info = {
     'name': 'Remote debugger',
     'author': 'Sybren A. Stüvel',
     'version': (0, 5, 0),
-    'blender': (3, 0, 0),
+    'blender': (3, 1, 2),
     'location': 'Press [F3] (in Blender 2.80-3.00) or [Space] (in Blender 2.79) and then search for "debugger"',
     'category': 'Development',
 }
